@@ -28,8 +28,8 @@ EXPANSIONS: ["author_id"]
 # Time period.
 # For 'General' access, you can search for the last 7 days only.
 # To search for full-archive tweets, 'Academic Research' access is required.
-START_TIME: "2023-04-18T00:00:00Z"
-END_TIME: "2023-04-24T00:00:00Z"
+START_TIME: "2015-04-18T00:00:00Z"
+END_TIME: "2018-04-24T00:00:00Z"
 
 # Crawl limit for seed tweets.
 INIT_MAX_RESULTS: 10      # Max results for each page.
